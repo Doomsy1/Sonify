@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+node_modules/
+build/
+.shopify/
+.react-router/
+.cache/
+__pycache__/
+*.sqlite*
+.env
+.env.*
