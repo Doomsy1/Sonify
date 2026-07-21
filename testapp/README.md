@@ -1,6 +1,8 @@
-# Shopify App Template - React Router
+# Sonify - Shopify App
 
-This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using [React Router](https://reactrouter.com/). It was forked from the [Shopify Remix app template](https://github.com/Shopify/shopify-app-template-remix) and converted to React Router.
+This directory is the Shopify React Router app that implements the Sonify voice + sonification features described in the [root README](../README.md). It was scaffolded from the [Shopify React Router app template](https://github.com/Shopify/shopify-app-template-react-router) and extended with the Backboard voice agent, metrics API, sonification engine, and ElevenLabs TTS proxy.
+
+The template's original quick-start notes follow below.
 
 Rather than cloning this repo, follow the [Quick Start steps](https://github.com/Shopify/shopify-app-template-react-router#quick-start).
 
